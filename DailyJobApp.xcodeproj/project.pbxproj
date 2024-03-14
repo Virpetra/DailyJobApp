@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2A7B40892BA37D4E00FA4D81 /* DailyJobAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7B40882BA37D4E00FA4D81 /* DailyJobAppApp.swift */; };
-		2A7B408B2BA37D4E00FA4D81 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7B408A2BA37D4E00FA4D81 /* ContentView.swift */; };
+		2A7B408B2BA37D4E00FA4D81 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A7B408A2BA37D4E00FA4D81 /* HomeView.swift */; };
 		2A7B408D2BA37D5000FA4D81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A7B408C2BA37D5000FA4D81 /* Assets.xcassets */; };
 		2A7B40902BA37D5000FA4D81 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A7B408F2BA37D5000FA4D81 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		2A7B40852BA37D4E00FA4D81 /* DailyJobApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyJobApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A7B40882BA37D4E00FA4D81 /* DailyJobAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyJobAppApp.swift; sourceTree = "<group>"; };
-		2A7B408A2BA37D4E00FA4D81 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		2A7B408A2BA37D4E00FA4D81 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		2A7B408C2BA37D5000FA4D81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A7B408F2BA37D5000FA4D81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				2A7B40882BA37D4E00FA4D81 /* DailyJobAppApp.swift */,
-				2A7B408A2BA37D4E00FA4D81 /* ContentView.swift */,
+				2A7B408A2BA37D4E00FA4D81 /* HomeView.swift */,
 				2A7B408C2BA37D5000FA4D81 /* Assets.xcassets */,
 				2A7B408E2BA37D5000FA4D81 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2A7B408B2BA37D4E00FA4D81 /* ContentView.swift in Sources */,
+				2A7B408B2BA37D4E00FA4D81 /* HomeView.swift in Sources */,
 				2A7B40892BA37D4E00FA4D81 /* DailyJobAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

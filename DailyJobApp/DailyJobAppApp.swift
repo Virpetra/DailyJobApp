@@ -11,7 +11,7 @@ import SwiftUI
 struct DailyJobAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
